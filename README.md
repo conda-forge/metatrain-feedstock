@@ -148,4 +148,5 @@ Feedstock Maintainers
 
 * [@Luthaf](https://github.com/Luthaf/)
 * [@PicoCentauri](https://github.com/PicoCentauri/)
+* [@pfebrer](https://github.com/pfebrer/)
 
