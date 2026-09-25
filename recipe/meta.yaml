@@ -1,5 +1,5 @@
 {% set name = "metatrain" %}
-{% set version = "2026.4" %}
+{% set version = "2026.4.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/metatrain-{{ version }}.tar.gz
-  sha256: 910b39d36ec1e9bc3b53e84be4a2490b92d6159ebf89be68dc924845c8b7145a
+  sha256: 76f5d772d32042cffa4b1c145d4654f799fa0a3334da91eef47ae77fdeae51ca
 
 build:
   entry_points:
